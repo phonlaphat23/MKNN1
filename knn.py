@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-st.header('Phonlaphat')
+st.header('🌟Phonlaphat')
 st.image("./img/photo.jpg")
 col1, col2, col3 = st.columns(3)
 
@@ -22,7 +22,7 @@ with col3:
    st.image("./img/iris3.jpg")
 
 html_7 = """
-<div style="background-color:#EC7063;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<div style="background-color:#B99470;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
 <center><h5>สถิติข้อมูลดอกไม้</h5></center>
 </div>
 """
@@ -48,7 +48,7 @@ else:
     st.write("ไม่แสดงข้อมูล")
 
 html_8 = """
-<div style="background-color:#6BD5DA;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<div style="background-color:#FEFAE0;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
 <center><h5>ทำนายข้อมูล</h5></center>
 </div>
 """
