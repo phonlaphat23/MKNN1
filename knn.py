@@ -3,11 +3,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import plotly.express as px
-import matplotlib.pyplot as plt
 
-st.header('Wasan')
-#st.image("./pic/kairung.jpg")
+
+st.header('Phonlaphat')
+st.image("./img/photo.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
