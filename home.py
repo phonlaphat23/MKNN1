@@ -9,4 +9,4 @@ st.subheader("Phonlahat Auitrakun")
 
 dt=pd.read_csv('./data/iris-3.csv')
 st.header("ข้อมูลดอกไม้")
-st.wite(dt.head(10))
+st.write(dt.head(10))
